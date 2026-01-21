@@ -36,7 +36,6 @@ module.exports = {
 		historyApiFallback: true,
 	},
 
-	// Плагины
 	plugins: [
 		new HtmlWebpackPlugin({
 			template: './public/index.html',
